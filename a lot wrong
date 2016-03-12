@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <title>Fakebook project</title>
+    </head>
+    <body>
+    <h1><em>FAKEBOOK</em></h1>
+        <head><tr><th style="font-family:Arial">Search: </th><th>search by name</th></tr></head>
+    <p style="font-size:34px"<strong>Linda Promok</strong></p>
+    <p></p>
+    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlisXnLLHz6lIXfP09PwhncHgDVG_LqiiwibB1lKqxDfFefta-"/></p>
+<a herf="http://smartninja.at"> Add a friend</a>
+<p> <strong>City: </strong>Vienna</p>
+<p><strong>Age: </strong>30+</p>
+<p><strong> Education: </strong>Ninja University Student</p>
+<p><strong>Hobby: </strong>coding</p>
+<p><strong>FB friends: </strong>one in a million</p>
+<p><strong>FB enemies: </strong>unknown</p>
+
+    </body>
